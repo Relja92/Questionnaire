@@ -1,0 +1,738 @@
+[
+  {
+    "id": 0,
+    "tekst": "Često imam tremu."
+  },
+  {
+    "id": 1,
+    "tekst": "Sklon sam da odlažem obaveze."
+  },
+  {
+    "id": 2,
+    "tekst": "Lako se iznerviram."
+  },
+  {
+    "id": 3,
+    "tekst": "Veoma sam ljubazan prema ljudima."
+  },
+  {
+    "id": 4,
+    "tekst": "Neka umetnička dela mogu u meni da pobude snažna osećanja."
+  },
+  {
+    "id": 5,
+    "tekst": "Često me muči osećanje krivice."
+  },
+  {
+    "id": 6,
+    "tekst": "Ja sam nametljiva osoba."
+  },
+  {
+    "id": 7,
+    "tekst": "U mom životu vlada mrtvilo."
+  },
+  {
+    "id": 8,
+    "tekst": "Ja sam obična osoba."
+  },
+  {
+    "id": 9,
+    "tekst": "Veoma sam uporan."
+  },
+  {
+    "id": 10,
+    "tekst": "Ja sam popustljiva osoba."
+  },
+  {
+    "id": 11,
+    "tekst": "Uglavnom se osećam srećno."
+  },
+  {
+    "id": 12,
+    "tekst": "Volim promene."
+  },
+  {
+    "id": 13,
+    "tekst": "Mnoge stvari u životu sam uradio uzalud."
+  },
+  {
+    "id": 14,
+    "tekst": "Ne zaslužujem da me drugi vole."
+  },
+  {
+    "id": 15,
+    "tekst": "Volim moć."
+  },
+  {
+    "id": 16,
+    "tekst": "Zabrinut sma zbog svog zdravlja."
+  },
+  {
+    "id": 17,
+    "tekst": "Postupam oprezno i promišljeno."
+  },
+  {
+    "id": 18,
+    "tekst": "Ja sam borbena osoba."
+  },
+  {
+    "id": 19,
+    "tekst": "Volim svuda da zabadam nos."
+  },
+  {
+    "id": 20,
+    "tekst": "Pričljiv sam."
+  },
+  {
+    "id": 21,
+    "tekst": "Volim umetnost."
+  },
+  {
+    "id": 22,
+    "tekst": "Ja sam važna osoba."
+  },
+  {
+    "id": 23,
+    "tekst": "Lako se zbunim."
+  },
+  {
+    "id": 24,
+    "tekst": "Nemaran sam kada su obaveze u pitanju."
+  },
+  {
+    "id": 25,
+    "tekst": "Često pobesnim."
+  },
+  {
+    "id": 26,
+    "tekst": "Od mene nema nikakve koristi."
+  },
+  {
+    "id": 27,
+    "tekst": "Često pomognem ljudima u nevolji."
+  },
+  {
+    "id": 28,
+    "tekst": "Važno mi je da proniknem suštinu problema."
+  },
+  {
+    "id": 29,
+    "tekst": "Ja sam dobar čovek."
+  },
+  {
+    "id": 30,
+    "tekst": "Budućnost mi izgleda prilično mračna."
+  },
+  {
+    "id": 31,
+    "tekst": "Imam jaku volju."
+  },
+  {
+    "id": 32,
+    "tekst": "Lako praštam."
+  },
+  {
+    "id": 33,
+    "tekst": "Ja sam loš čovek."
+  },
+  {
+    "id": 34,
+    "tekst": "Uglavnom sam dobro raspoložen."
+  },
+  {
+    "id": 35,
+    "tekst": "Voleo bih da isprobam što više stvari u životu."
+  },
+  {
+    "id": 36,
+    "tekst": "Ja sam moćna osoba."
+  },
+  {
+    "id": 37,
+    "tekst": "Često sam zabrinut."
+  },
+  {
+    "id": 38,
+    "tekst": "Oprezan sam."
+  },
+  {
+    "id": 39,
+    "tekst": "Često se suprostavljam mišljenju drugih."
+  },
+  {
+    "id": 40,
+    "tekst": "U društvu sam obično ćutljiv."
+  },
+  {
+    "id": 41,
+    "tekst": "Pomalo spletkrim."
+  },
+  {
+    "id": 42,
+    "tekst": "Osećam da mi nova saznanja obogaćuju život."
+  },
+  {
+    "id": 43,
+    "tekst": "Smatram da sam deo elite."
+  },
+  {
+    "id": 44,
+    "tekst": "Stidljiv sam."
+  },
+  {
+    "id": 45,
+    "tekst": "Trenutna zadovoljstva me mogu lako odvratiti od neke obaveze."
+  },
+  {
+    "id": 46,
+    "tekst": "Lako planem."
+  },
+  {
+    "id": 47,
+    "tekst": "Veoma sam srdačan."
+  },
+  {
+    "id": 48,
+    "tekst": "Ja sam lukava osoba."
+  },
+  {
+    "id": 49,
+    "tekst": "Stalno se usavršavam i napredujem."
+  },
+  {
+    "id": 50,
+    "tekst": "Ja sam uticajna osoba."
+  },
+  {
+    "id": 51,
+    "tekst": "Mogu da budem nemilosrdan."
+  },
+  {
+    "id": 52,
+    "tekst": "Osećam se kao gubitnik."
+  },
+  {
+    "id": 53,
+    "tekst": "Prilično sam izdržljiv."
+  },
+  {
+    "id": 54,
+    "tekst": "Tolerantan sam."
+  },
+  {
+    "id": 55,
+    "tekst": "Ja sam vedra osoba."
+  },
+  {
+    "id": 56,
+    "tekst": "Mislim da sam dobar drug i prijatelj."
+  },
+  {
+    "id": 57,
+    "tekst": "Na odmor bih uvek išao na različita mesta."
+  },
+  {
+    "id": 58,
+    "tekst": "Drugi smatraju da imam ukusa."
+  },
+  {
+    "id": 59,
+    "tekst": "Mislim da dobijam mnogog manje nego što zaslužujem."
+  },
+  {
+    "id": 60,
+    "tekst": "Uvek dobro razmislim o posledicama svojih postupaka."
+  },
+  {
+    "id": 61,
+    "tekst": "Brzo pričam."
+  },
+  {
+    "id": 62,
+    "tekst": "Veoma sam društven."
+  },
+  {
+    "id": 63,
+    "tekst": "Volim da se hvalim."
+  },
+  {
+    "id": 64,
+    "tekst": "Često tragam za informacijama o stvarima koje me zanimaju."
+  },
+  {
+    "id": 65,
+    "tekst": "Ni po čemu se ne izdvajam od drugih."
+  },
+  {
+    "id": 66,
+    "tekst": "Glas mi često zadrhti kada treba nešto da kažem pred drugima."
+  },
+  {
+    "id": 67,
+    "tekst": "Ja sam lenja osoba."
+  },
+  {
+    "id": 68,
+    "tekst": "Kad pobesnim, padne mi mrak na oči."
+  },
+  {
+    "id": 69,
+    "tekst": "Dobrodušan sam."
+  },
+  {
+    "id": 70,
+    "tekst": "Ponekad pomislim da sam običan šarlatan."
+  },
+  {
+    "id": 71,
+    "tekst": "Žudim za uzbuđenjima i novinama."
+  },
+  {
+    "id": 72,
+    "tekst": "Drugi mogu mnogo da nauče od mene."
+  },
+  {
+    "id": 73,
+    "tekst": "Često mislim da život nema smisla."
+  },
+  {
+    "id": 74,
+    "tekst": "Ne odustajem lako od svojih ciljeva."
+  },
+  {
+    "id": 75,
+    "tekst": "Miroljubiv sam."
+  },
+  {
+    "id": 76,
+    "tekst": "Uvek verujem da će se stvari dobro završiti."
+  },
+  {
+    "id": 77,
+    "tekst": "Ponekad pomislim da sam jeziv čovek."
+  },
+  {
+    "id": 78,
+    "tekst": "Ja sam kreativna osoba."
+  },
+  {
+    "id": 79,
+    "tekst": "Drugi se uglavnom prilagođavaju mojim potrebama."
+  },
+  {
+    "id": 80,
+    "tekst": "Meni uvek zapadnu najteži poslovi."
+  },
+  {
+    "id": 81,
+    "tekst": "Volim pravila."
+  },
+  {
+    "id": 82,
+    "tekst": "Ja sam buntovna osoba."
+  },
+  {
+    "id": 83,
+    "tekst": "Lako se zbližavam s ljudima."
+  },
+  {
+    "id": 84,
+    "tekst": "Često ogovaram druge."
+  },
+  {
+    "id": 85,
+    "tekst": "Idealista sam."
+  },
+  {
+    "id": 86,
+    "tekst": "Mnogi smatraju da sam divna osoba."
+  },
+  {
+    "id": 87,
+    "tekst": "Često se dvoumim."
+  },
+  {
+    "id": 88,
+    "tekst": "Često smandrljam neki posao."
+  },
+  {
+    "id": 89,
+    "tekst": "Često se posvađam sa drugima."
+  },
+  {
+    "id": 90,
+    "tekst": "Imam veoma visoko mišljenje o sebi."
+  },
+  {
+    "id": 91,
+    "tekst": "Često osećam teskobu."
+  },
+  {
+    "id": 92,
+    "tekst": "Volim da zbližavam ljude."
+  },
+  {
+    "id": 93,
+    "tekst": "Moje ponašanje je primerno."
+  },
+  {
+    "id": 94,
+    "tekst": "Postavljam sebi visoke standarde."
+  },
+  {
+    "id": 95,
+    "tekst": "Osećam da sam otuđen od drugih."
+  },
+  {
+    "id": 96,
+    "tekst": "Veoma sam samostalan i nezavisan."
+  },
+  {
+    "id": 97,
+    "tekst": "Obično prvi popustim u sukobu."
+  },
+  {
+    "id": 98,
+    "tekst": "Pun sam energije."
+  },
+  {
+    "id": 99,
+    "tekst": "Često provociram druge."
+  },
+  {
+    "id": 100,
+    "tekst": "Pratim nova zbivanja u umetnosti(muzika, film, književnost,...)"
+  },
+  {
+    "id": 101,
+    "tekst": "Ja sam posvećena i obrazovana osoba."
+  },
+  {
+    "id": 102,
+    "tekst": "Mnogo sam se napatio u životu."
+  },
+  {
+    "id": 103,
+    "tekst": "Pripravan sam za sve što mi se može dogoditi."
+  },
+  {
+    "id": 104,
+    "tekst": "Moje reakcije su brze i spontane."
+  },
+  {
+    "id": 105,
+    "tekst": "Družim se sa velikim brojem ljudi."
+  },
+  {
+    "id": 106,
+    "tekst": "Površan sam."
+  },
+  {
+    "id": 107,
+    "tekst": "Ne prijaju mi novotarije."
+  },
+  {
+    "id": 108,
+    "tekst": "Ja sam rođeni pobednik."
+  },
+  {
+    "id": 109,
+    "tekst": "Lako se obeshrabrim."
+  },
+  {
+    "id": 110,
+    "tekst": "Za mene važi: ono što možeš da uradiš danas, ne ostavljaj za sutra."
+  },
+  {
+    "id": 111,
+    "tekst": "Često zakeram."
+  },
+  {
+    "id": 112,
+    "tekst": "Često sam drugima od koristi."
+  },
+  {
+    "id": 113,
+    "tekst": "Često se podsmevam drugima."
+  },
+  {
+    "id": 114,
+    "tekst": "Uđivam da rešavam složene probleme i zagonetke."
+  },
+  {
+    "id": 115,
+    "tekst": "Ja sam šarmantna osoba."
+  },
+  {
+    "id": 116,
+    "tekst": "Često osećam da sam drugima na smetnji."
+  },
+  {
+    "id": 117,
+    "tekst": "Mogu lako da obavljam više poslova istovremeno."
+  },
+  {
+    "id": 118,
+    "tekst": "Izbegavam neprilike sa drugima."
+  },
+  {
+    "id": 119,
+    "tekst": "Ja sam veoma aktivna osoba,"
+  },
+  {
+    "id": 120,
+    "tekst": "Uživam da me se drugi plaše."
+  },
+  {
+    "id": 121,
+    "tekst": "Spreman sam da isprobam nove aparate i uređaje."
+  },
+  {
+    "id": 122,
+    "tekst": "Mislim da nisam ništa posebno."
+  },
+  {
+    "id": 123,
+    "tekst": "Često osetim da mi srce jako lupa."
+  },
+  {
+    "id": 124,
+    "tekst": "Tačno se zna šta je ispravno a šta pogrešno."
+  },
+  {
+    "id": 125,
+    "tekst": "Ja sam bučna osoba."
+  },
+  {
+    "id": 126,
+    "tekst": "Ljudima delujem rezervisano."
+  },
+  {
+    "id": 127,
+    "tekst": "Nije mi problem da prevarim nekoga."
+  },
+  {
+    "id": 128,
+    "tekst": "Imam različita interesovanja."
+  },
+  {
+    "id": 129,
+    "tekst": "Ja sam mudra osoba."
+  },
+  {
+    "id": 130,
+    "tekst": "Često osećam stid."
+  },
+  {
+    "id": 131,
+    "tekst": "Prilično sam neodlučan."
+  },
+  {
+    "id": 132,
+    "tekst": "Može se reći da sam prgava osoba."
+  },
+  {
+    "id": 133,
+    "tekst": "Volim ljude."
+  },
+  {
+    "id": 134,
+    "tekst": "Nemoralan sam."
+  },
+  {
+    "id": 135,
+    "tekst": "Vollim da isprobavam nova jela."
+  },
+  {
+    "id": 136,
+    "tekst": "Mislim da sam veoma talentovan."
+  },
+  {
+    "id": 137,
+    "tekst": "Ja baš nemam sreće."
+  },
+  {
+    "id": 138,
+    "tekst": "Dobar sam organizator."
+  },
+  {
+    "id": 139,
+    "tekst": "Spreman sam da odustam od svojih ciljeva zarad dobrih odnosa sa drugima."
+  },
+  {
+    "id": 140,
+    "tekst": "Ja sam prijatna osoba."
+  },
+  {
+    "id": 141,
+    "tekst": "Osećam se nelagodno u velikoj gužvi."
+  },
+  {
+    "id": 142,
+    "tekst": "Često iskorišćavam druge."
+  },
+  {
+    "id": 143,
+    "tekst": "Bavim se mnogim zanimljivim stvarima u slobodno vreme."
+  },
+  {
+    "id": 144,
+    "tekst": "Stvoren sam za velika dela."
+  },
+  {
+    "id": 145,
+    "tekst": "Moje mane su mnogo izraženije od mojih vrlina."
+  },
+  {
+    "id": 146,
+    "tekst": "Veoma sam marljiv i vredan."
+  },
+  {
+    "id": 147,
+    "tekst": "Imam strpljenja sa ljudima."
+  },
+  {
+    "id": 148,
+    "tekst": "Volim šalu."
+  },
+  {
+    "id": 149,
+    "tekst": "Saosećam se sa ljudima u nevolji."
+  },
+  {
+    "id": 150,
+    "tekst": "Moja dela su za svaku pohvalu."
+  },
+  {
+    "id": 151,
+    "tekst": "Mnogo toga mi nedostaje u životu."
+  },
+  {
+    "id": 152,
+    "tekst": "Veoma sam taktičan u komunikaciji."
+  },
+  {
+    "id": 153,
+    "tekst": "Ja sam tvrdoglava osoba."
+  },
+  {
+    "id": 154,
+    "tekst": "Volim da se oko mene stalno nešto događa."
+  },
+  {
+    "id": 155,
+    "tekst": "Često lažem."
+  },
+  {
+    "id": 156,
+    "tekst": "Ja sam ponosna osoba."
+  },
+  {
+    "id": 157,
+    "tekst": "Često oklevam kad nešto treba uraditi."
+  },
+  {
+    "id": 158,
+    "tekst": "Uvek ispunjavam svoje obaveze."
+  },
+  {
+    "id": 159,
+    "tekst": "Ja sam \"teška\" osoba."
+  },
+  {
+    "id": 160,
+    "tekst": "Uznemirim se u nepoznatim situacijama."
+  },
+  {
+    "id": 161,
+    "tekst": "Volim da sarađujem sa drugima."
+  },
+  {
+    "id": 162,
+    "tekst": "Mislim da imam neke posebne kvalitete."
+  },
+  {
+    "id": 163,
+    "tekst": "Često se osećam ogorčeno."
+  },
+  {
+    "id": 164,
+    "tekst": "Sve što počnem, to i završim."
+  },
+  {
+    "id": 165,
+    "tekst": "Izbegavam sukobe."
+  },
+  {
+    "id": 166,
+    "tekst": "Jako sam nespretan."
+  },
+  {
+    "id": 167,
+    "tekst": "Uvek nađem vremena za igru i zabavu."
+  },
+  {
+    "id": 168,
+    "tekst": "Privalačim pažnju drugih."
+  },
+  {
+    "id": 169,
+    "tekst": "Stalno osećam čežnju za nečim."
+  },
+  {
+    "id": 170,
+    "tekst": "Jako se zadubim u ono što radim."
+  },
+  {
+    "id": 171,
+    "tekst": "Volim da naređujem."
+  },
+  {
+    "id": 172,
+    "tekst": "Osećam da je život nepravedan prema meni."
+  },
+  {
+    "id": 173,
+    "tekst": "Uživam kad trijumfujem."
+  },
+  {
+    "id": 174,
+    "tekst": "Često kritikujem druge."
+  },
+  {
+    "id": 175,
+    "tekst": "Često se kajem zbog svojih postupaka."
+  },
+  {
+    "id": 176,
+    "tekst": "Moje vreme je uvek unapred isplanirano."
+  },
+  {
+    "id": 177,
+    "tekst": "Imam blagu narav."
+  },
+  {
+    "id": 178,
+    "tekst": "Ja sam nesrećna osoba."
+  },
+  {
+    "id": 179,
+    "tekst": "Veoma sam temeljan u onome što radim."
+  },
+  {
+    "id": 180,
+    "tekst": "Osvetoljubiv sam."
+  },
+  {
+    "id": 181,
+    "tekst": "Često me more tužne misli."
+  },
+  {
+    "id": 182,
+    "tekst": "Veoma sam uredan."
+  },
+  {
+    "id": 183,
+    "tekst": "Često protivrečim drugim ljudima."
+  }
+]
